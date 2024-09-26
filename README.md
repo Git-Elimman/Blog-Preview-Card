@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Git-Elimman/Blog-Preview-Card)
 - Live Site URL: [Add live site URL here](https://git-elimman.github.io/Blog-Preview-Card/)
 
 ## My process
@@ -59,8 +59,8 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Git-Elimmanl](https://github.com/dashboard)
+- Frontend Mentor - [@Git-Elimman](https://www.frontendmentor.io/profile/Git-Elimman)
 
 ## Acknowledgments
 
