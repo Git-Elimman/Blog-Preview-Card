@@ -1,0 +1,122 @@
+/* For smaller screens */
+@media only screen and (max-width: 700px) {
+  body {
+    background-color: hsl(47, 88%, 63%);
+    /* margin: auto; */
+  }
+  .div1 {
+    background-color: hsl(0, 0%, 100%);
+    width: 350px;
+    height: 515px;
+    border-radius: 15px;
+    border-style: groove;
+    border-color: #1303039c;
+    box-shadow: 10px 10px;
+    padding-left: 4%;
+    margin: auto;
+  }
+
+  .div2 {
+    background-color: hsl(47, 88%, 63%);
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    border-radius: 7px;
+    padding: 5px;
+    width: 70px;
+    height: 37px;
+    text-align: center;
+  }
+  .div3 {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+  }
+  h1 {
+    font-family: figtree, sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+  }
+  h3 {
+    font-family: figtree, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+  }
+  p {
+    font-size: 16;
+    font-family: figtree, sans-serif;
+    font-weight: 400;
+    color: hsl(0, 0%, 42%);
+  }
+  img {
+    border-radius: 50%;
+  }
+  svg {
+    border-radius: 15px;
+    width: 320px;
+    margin-top: 10px;
+  }
+}
+
+/* for bigger screens */
+@media only screen and (min-width: 701px) {
+  body {
+    background-color: hsl(47, 88%, 63%);
+    /* margin: auto; */
+  }
+  .div1 {
+    background-color: hsl(0, 0%, 100%);
+    width: 330px;
+    height: 535px;
+    border-radius: 15px;
+    border-style: groove;
+    border-color: #1303039c;
+    box-shadow: 10px 10px;
+    padding-left: 2%;
+    margin: auto;
+  }
+  .div2 {
+    margin-top: 10px;
+    background-color: hsl(47, 88%, 63%);
+    color: black;
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    padding: 5px;
+    width: 70px;
+    height: 30px;
+    text-align: center;
+  }
+  .div3 {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+  }
+  h1 {
+    font-family: figtree, sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+  }
+  h3 {
+    font-family: figtree, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    /* margin-bottom: 20px; */
+  }
+  p {
+    font-size: 16;
+    font-family: figtree, sans-serif;
+    font-weight: 400;
+    color: hsl(0, 0%, 42%);
+  }
+  img {
+    border-radius: 50%;
+  }
+  svg {
+    border-radius: 17px;
+    margin-top: 15px;
+    width: 320px;
+  }
+}
